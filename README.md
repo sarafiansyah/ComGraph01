@@ -1,4 +1,4 @@
-# Jiduren Plane Game
+# JIDUREN PLANE GAME
  Game sederhana MENGGUNAKAN C++
  
 Jiduren Plane Game merupakan game 3D sederhana yang diciptakan berbasis bahasa pemrograman C++. Dirancang khusus untuk desktop dan merupakan game berkategori Casual dengan 1 pemain.
